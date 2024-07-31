@@ -1,0 +1,37 @@
+section{
+    padding: 56px;
+}
+#section2{
+    height: 487px;
+    margin-top: 100px;
+    background-color: #38393F;
+    max-width: 1110px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    
+}
+.klavi{
+    max-width: 1110px;
+    width: 100%;
+    align-items: center;
+    
+    
+    
+    .klavi_text{
+        line-height: 47px;
+        max-width: 326px;
+        
+    }
+}
+
+.btn{
+    background-color: #0D6EFD;
+    color: #fff;
+    font-family: serif;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 4px 24px ;
+    border: none;
+    border-radius: 3px;
+}

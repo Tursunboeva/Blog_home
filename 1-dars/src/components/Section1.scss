@@ -1,0 +1,40 @@
+#content{
+    width: 100%;
+    padding: 20px;
+    height: 1100px;
+    margin-top: 600px;
+}
+
+
+.hero_content{
+    height: 1100px;
+    margin-top: 80px;
+    color: black;
+}
+.title{
+    max-width: 1110px;
+    border-bottom: 1px solid #EAEAEA;
+    margin-top: 40px;
+    h2{
+        margin-bottom: 24px;
+
+    }
+}
+.cards{
+    display: flex;
+    margin-top: 40px;
+    gap: 56px 24px ;
+    max-width: 1110px;
+    flex-wrap: wrap;
+}
+
+.box{
+    max-width: 354px;
+    img{
+        margin-bottom: 8px;
+        border-radius: 10px;
+    }
+    .box_text{
+        line-height: 40px;
+    }
+}

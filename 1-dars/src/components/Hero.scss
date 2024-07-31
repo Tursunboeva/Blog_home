@@ -1,0 +1,34 @@
+
+#hero{
+    background-image: url(./images/Hero.png);
+    width: 100%;
+    height: 660px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+   
+}
+
+.frame{
+    max-width: 540px;
+    height: 236px;
+    background-color: #fff;
+    position: relative;
+    top: 60%;
+    right: 20%;
+    padding: 28px;
+
+}
+.card{
+    display: flex;
+    max-width: 226px;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.title_card{
+    display: flex;
+    flex-direction: row;
+}

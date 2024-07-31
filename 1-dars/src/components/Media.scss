@@ -1,0 +1,26 @@
+
+.media{
+    border-top: 1px solid #eaeaea;
+}
+
+.media__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 0;
+}
+
+.media__text{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #807e7e;
+    font-family: var(--openSans);
+}
+
+.media__icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 40px;
+}
